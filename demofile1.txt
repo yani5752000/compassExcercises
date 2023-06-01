@@ -1,0 +1,4 @@
+this is the content of demofile.
+hi
+hihi
+end of content.

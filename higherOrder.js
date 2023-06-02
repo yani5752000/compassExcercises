@@ -8,7 +8,7 @@ const higherOrderFunc = function(callback) {
       // as per question 3, what if we return data below? Like so:
       
       //return data;
-    });
+    }, 1000);
    
     console.log('AFTER TIMEOUT CALL');
     // okay, if not in the setTimeout callback above, as per question 3, what if we return data here? So that result below is set to the data. Like so:
